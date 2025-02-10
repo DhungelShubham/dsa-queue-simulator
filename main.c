@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#include <SDL.h>
 
 #define MAX_VEHICLES 100
 

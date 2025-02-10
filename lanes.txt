@@ -1,0 +1,5 @@
+Lane 0: 13 vehicles
+Lane 1: 4 vehicles
+Lane 2: 5 vehicles
+Lane 3: 10 vehicles
+ 
