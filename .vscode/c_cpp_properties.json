@@ -1,17 +1,16 @@
 {
-    "configurations": [
-        {
-            "name": "Win32",
-            "includePath": [
-                "${workspaceFolder}/**",  // Your project folder files
-                "C:/Users/Victus/Desktop/SDL2-devel-2.32.0-VC/SDL2-2.32.0/include"  // This should point directly to the 'include' folder
-            ],
-            "defines": [],
-            "compilerPath": "C:/msys64/mingw64/bin/gcc.exe",  // Ensure this points to the right gcc.exe
-            "intelliSenseMode": "gcc-x86",
-            "cStandard": "c11",
-            "cppStandard": "c++17"
-        }
-    ],
-    "version": 4
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [],
+      "compilerPath": "C:/msys64/mingw64/bin/gcc.exe",
+      "intelliSenseMode": "windows-gcc-x64",
+      "cStandard": "${default}",
+      "cppStandard": "${default}"
+    }
+  ],
+  "version": 4
 }
